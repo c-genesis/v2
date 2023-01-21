@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/v2/static/css/main.755bc327.css",
+    "main.js": "/v2/static/js/main.7a0a653a.js",
+    "static/js/787.f8a285c4.chunk.js": "/v2/static/js/787.f8a285c4.chunk.js",
+    "static/media/loginImg.png": "/v2/static/media/loginImg.001473e2813753e03f5c.png",
+    "static/media/homeHeader.png": "/v2/static/media/homeHeader.09f7b63c70e1579a4e18.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/v2/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/dashboardIcon1.svg": "/v2/static/media/dashboardIcon1.ef3f929116ecb1e4ab5b959c5d51f935.svg",
+    "static/media/dashboardIcon2.svg": "/v2/static/media/dashboardIcon2.18cec21f453589c170efa14085a639bf.svg",
+    "static/media/profileIconActive.svg": "/v2/static/media/profileIconActive.9c87db3cdc2c2c9c4aa4dae156fb4c37.svg",
+    "static/media/profileIconInactive.svg": "/v2/static/media/profileIconInactive.4bf32257c6421bc80f3dd3c679d4124b.svg",
+    "static/media/logo.svg": "/v2/static/media/logo.0334a4e403473ec810c0d6da744d70b7.svg",
+    "static/media/phoneWhite.svg": "/v2/static/media/phoneWhite.8b255c58edb1495e13d21f9a87c2eefc.svg",
+    "static/media/homeHeader2.svg": "/v2/static/media/homeHeader2.07e7d48d3ffab1c6a7c4b379bcb69a15.svg",
+    "static/media/homeIconActive.svg": "/v2/static/media/homeIconActive.889ad9fb8dc894fe8f88a231e7812840.svg",
+    "static/media/homeIconInactive.svg": "/v2/static/media/homeIconInactive.8748e0bdf8858b9f7e63ae7f900da124.svg",
+    "index.html": "/v2/index.html",
+    "static/media/logoutIconActive.svg": "/v2/static/media/logoutIconActive.e48fc0ad6a7856d306b012b9e14e298d.svg",
+    "static/media/logoutIconInactive.svg": "/v2/static/media/logoutIconInactive.5ba25dc63655b5f87f8acf82e5ac3e9f.svg",
+    "static/media/labIconActive.svg": "/v2/static/media/labIconActive.576718649ebac62a814b46f65237bbbe.svg",
+    "static/media/labIconInactive.svg": "/v2/static/media/labIconInactive.a0bae97324fd47956985382970a6e8b2.svg",
+    "static/media/walletIconActive.svg": "/v2/static/media/walletIconActive.028d533c5cb923f53c5c785a3d5ad605.svg",
+    "static/media/walletIconInactive.svg": "/v2/static/media/walletIconInactive.1ed390b33859b56b8f8ec291d9843793.svg",
+    "static/media/dashboardIcon3.svg": "/v2/static/media/dashboardIcon3.a0bf784646d8f4b181c4a8dabe803b66.svg",
+    "static/media/dashboardIconActive.svg": "/v2/static/media/dashboardIconActive.3102981e6cefeb9e79595284b6d57a3c.svg",
+    "static/media/dashboardIconInactive.svg": "/v2/static/media/dashboardIconInactive.8cbe82c4eda66767db91ad7773161e94.svg",
+    "static/media/dashboardIcon4.svg": "/v2/static/media/dashboardIcon4.6e07ace6261b6f20265717b06e1c61ff.svg",
+    "static/media/ellipseRed.svg": "/v2/static/media/ellipseRed.e815cf5b8236e92dcb9b5be0ccf92c41.svg",
+    "main.755bc327.css.map": "/v2/static/css/main.755bc327.css.map",
+    "main.7a0a653a.js.map": "/v2/static/js/main.7a0a653a.js.map",
+    "787.f8a285c4.chunk.js.map": "/v2/static/js/787.f8a285c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755bc327.css",
+    "static/js/main.7a0a653a.js"
+  ]
+}
